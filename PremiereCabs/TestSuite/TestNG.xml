@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite 1" verbose="1" >
+  <test name="Smoke" >
+    <classes>
+     <class name="com.deloitte.au.premiercabs.testcases.TC_ValidatePremierCabs_01"/>
+      <class name="com.deloitte.au.premiercabs.testcases.TC_ValidateDriverPortalLogin_02"/>
+      </classes>
+ </test>
+</suite>

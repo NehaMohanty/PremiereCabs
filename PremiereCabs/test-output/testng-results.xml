@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suite 1" duration-ms="63731" started-at="2020-08-05T20:37:54 IST" finished-at="2020-08-05T20:38:58 IST">
+    <groups>
+    </groups>
+    <test name="Smoke" duration-ms="63731" started-at="2020-08-05T20:37:54 IST" finished-at="2020-08-05T20:38:58 IST">
+      <class name="com.deloitte.au.premiercabs.testcases.TC_ValidatePremierCabs_01">
+        <test-method status="PASS" signature="LaunchPremierCabs()[pri:0, instance:com.deloitte.au.premiercabs.testcases.TC_ValidatePremierCabs_01@23faf8f2]" name="LaunchPremierCabs" is-config="true" duration-ms="10972" started-at="2020-08-05T20:37:54 IST" finished-at="2020-08-05T20:38:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchPremierCabs -->
+        <test-method status="PASS" signature="validatePremierCabs()[pri:0, instance:com.deloitte.au.premiercabs.testcases.TC_ValidatePremierCabs_01@23faf8f2]" name="validatePremierCabs" duration-ms="24094" started-at="2020-08-05T20:38:05 IST" finished-at="2020-08-05T20:38:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePremierCabs -->
+        <test-method status="PASS" signature="QuitPremierCabs()[pri:0, instance:com.deloitte.au.premiercabs.testcases.TC_ValidatePremierCabs_01@23faf8f2]" name="QuitPremierCabs" is-config="true" duration-ms="1399" started-at="2020-08-05T20:38:29 IST" finished-at="2020-08-05T20:38:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitPremierCabs -->
+      </class> <!-- com.deloitte.au.premiercabs.testcases.TC_ValidatePremierCabs_01 -->
+      <class name="com.deloitte.au.premiercabs.testcases.TC_ValidateDriverPortalLogin_02">
+        <test-method status="PASS" signature="LaunchPremierCabs()[pri:0, instance:com.deloitte.au.premiercabs.testcases.TC_ValidateDriverPortalLogin_02@2d6eabae]" name="LaunchPremierCabs" is-config="true" duration-ms="10759" started-at="2020-08-05T20:38:30 IST" finished-at="2020-08-05T20:38:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchPremierCabs -->
+        <test-method status="PASS" signature="validateDriverPortalLogin()[pri:0, instance:com.deloitte.au.premiercabs.testcases.TC_ValidateDriverPortalLogin_02@2d6eabae]" name="validateDriverPortalLogin" duration-ms="15001" started-at="2020-08-05T20:38:41 IST" finished-at="2020-08-05T20:38:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDriverPortalLogin -->
+        <test-method status="PASS" signature="QuitPremierCabs()[pri:0, instance:com.deloitte.au.premiercabs.testcases.TC_ValidateDriverPortalLogin_02@2d6eabae]" name="QuitPremierCabs" is-config="true" duration-ms="1407" started-at="2020-08-05T20:38:56 IST" finished-at="2020-08-05T20:38:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitPremierCabs -->
+      </class> <!-- com.deloitte.au.premiercabs.testcases.TC_ValidateDriverPortalLogin_02 -->
+    </test> <!-- Smoke -->
+  </suite> <!-- suite 1 -->
+</testng-results>
